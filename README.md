@@ -5,7 +5,7 @@
 ![Developer Portoflio](/My-Portfolio/assets/images/homepage.png)
 
 
-Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. Let's dive into the features:
+Hi there! I'm Naeem, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. Let's dive into the features:
 
 > But, wait! Have any cool project ideas to share or need some work done? Just shoot me an email at naeemshaikh1552@gmail.com. Let's chat over a virtual coffee! 😊 Check out my complete profile here: https://github.com/11223naeem
 
@@ -30,8 +30,8 @@ Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS,
 
 ## **Want to see it live? 👀**
 
-* Visit: [https://vijay-singh.com/](https://vijay-singh.com/)
-* Or, explore the code on GitHub: [https://github.com/itsvijaysingh/My-Portfolio/](https://github.com/itsvijaysingh/My-Portfolio/)
+* Visit: https://11223naeem.github.io/portfolio/
+* Or, explore the code on GitHub: https://github.com/11223naeem/portfolio
 
 ## **Why This Web Developer Portfolio Stands Out**
 
