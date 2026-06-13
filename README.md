@@ -2,7 +2,7 @@
 
 > See live demo: [https://vijay-singh.com](https://vijay-singh.com)    |  Feel free to use but **credit appreciated** and a **⭐** to repo ;)
 
-![Developer Portoflio](/My-Portfolio/assets/images/homepage.png)
+![Developer Portfolio](./assets/images/homepage.png)
 
 
 Hi there! I'm Naeem, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. Let's dive into the features:
