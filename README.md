@@ -1,6 +1,6 @@
 # Java Devlepor - Using HTML, CSS, Bootstrap & JS
 
-> See live demo: [https://vijay-singh.com](https://vijay-singh.com)    |  Feel free to use but **credit appreciated** and a **⭐** to repo ;)
+> See live demo: [https://11223naeem.github.io/portfolio/](https://11223naeem.github.io/portfolio/)    |  Feel free to use but **credit appreciated** and a **⭐** to repo ;)
 
 ![Developer Portfolio](./assets/images/homepage.png)
 
